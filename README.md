@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋!
 
-I'm [**Edson Canganjo** ](https://edsoncanganjo.cf/)!
+I'm [**Edson Canganjo** ](https://edsoncanganjo.cf/)
 
 - 🌱 I’m currently studying for Technical / Specialist in Technologies and Information Systems Programming
 - 👯 I’m looking to collaborate on a good and challengeable project
@@ -25,7 +25,7 @@ I'm [**Edson Canganjo** ](https://edsoncanganjo.cf/)!
   <img align="center" alt="EdsonCanganjo-Flask" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
   <img align="center" alt="EdsonCanganjo-.NET" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg">
   <img align="center" alt="EdsonCanganjo-Vuejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
- <img align="center" alt="EdsonCanganjo-Vuejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+ <img align="center" alt="EdsonCanganjo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="EdsonCanganjo-Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img align="center" alt="EdsonCanganjo-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
 </div>
