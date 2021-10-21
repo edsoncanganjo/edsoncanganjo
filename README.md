@@ -8,7 +8,7 @@ I'm [**Edson Canganjo** ](https://edsoncanganjo.cf/)
  <div>
   <a href="https://github.com/edsoncanganjo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edsoncanganjo&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsoncanganjo&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsoncanganjo&layout=compact&langs_count=20&theme=dark"/>
 </div>
 <h2>Languages</h2>
 <div style="display: inline_block"><br>
