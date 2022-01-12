@@ -35,7 +35,7 @@ I'm [**Edson Canganjo** ](https://edsoncanganjo.cf/)
   <img align="center" alt="EdsonCanganjo-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
 </div>
  
- <h2>Sponser</h2>
+ <h2>Become a sponsor</h2>
  <div style="display: inline_block"><br>
    <p align="center">
     <a href="https://www.buymeacoffee.com/edsoncanganjo" target="_blank">
