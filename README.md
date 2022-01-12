@@ -34,8 +34,10 @@ I'm [**Edson Canganjo** ](https://edsoncanganjo.cf/)
   <img align="center" alt="EdsonCanganjo-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
 </div>
  
-<p align="center">
-  <a href="https://www.buymeacoffee.com/edsoncanganjo" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
-  </a>
-</p>
+ <div>
+   <p align="center">
+    <a href="https://www.buymeacoffee.com/edsoncanganjo" target="_blank">
+      <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
+    </a>
+  </p>
+ </div>
