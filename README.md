@@ -33,3 +33,7 @@ I'm [**Edson Canganjo** ](https://edsoncanganjo.cf/)
   <img align="center" alt="EdsonCanganjo-Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
   <img align="center" alt="EdsonCanganjo-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
 </div>
+ 
+ <div align="center">
+   <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="edsoncanganjo" data-color="#5F7FFF" data-     emoji="📖"  data-font="Cookie" data-text="Buy me a book" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
+ </div>
