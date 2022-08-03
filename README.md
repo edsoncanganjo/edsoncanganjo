@@ -20,6 +20,9 @@ I'm [**Edson Canganjo** ](https://edsoncanganjo.cf/)
   <img align="center" alt="EdsonCanganjo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="EdsonCanganjo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
+ 
+<a href="https://app.daily.dev/edsoncanganjo"><img src="https://api.daily.dev/devcards/9a4341df6d1748e4adde16509270f229.png?r=bom" width="400" alt="Edson Canganjo's Dev Card"/></a>
+ 
 <h2>Frameworks, libraries and technologies</h2>
 <div>
   <img align="center" alt="EdsonCanganjo-Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg">
@@ -34,8 +37,6 @@ I'm [**Edson Canganjo** ](https://edsoncanganjo.cf/)
   <img align="center" alt="EdsonCanganjo-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" alt="EdsonCanganjo-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
 </div>
-
-<a href="https://app.daily.dev/edsoncanganjo"><img src="https://api.daily.dev/devcards/9a4341df6d1748e4adde16509270f229.png?r=bom" width="400" alt="Edson Canganjo's Dev Card"/></a>
  
  <h2>Become a sponsor</h2>
  <div style="display: inline_block"><br>
