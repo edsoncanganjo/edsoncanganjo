@@ -7,11 +7,11 @@ I'm [**Edson Canganjo** ](https://edsoncanganjo.cf/)
 
   <a href="https://github.com/edsoncanganjo">
 
- <div style="display: flex; gap: 1rem;">
-    <a href="https://app.daily.dev/edsoncanganjo"><img src="https://api.daily.dev/devcards/9a4341df6d1748e4adde16509270f229.png?r=bom" width="300" alt="Edson Canganjo's Dev Card"/></a>
-    <div display: block;>
-        - <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=edsoncanganjo&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" /> 
-        - <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsoncanganjo&layout=compact&langs_count=100&theme=dark" /> 
+ <div style="display: flex; gap: 1rem">
+    <a href="https://app.daily.dev/edsoncanganjo"><img src="https://api.daily.dev/devcards/9a4341df6d1748e4adde16509270f229.png?r=bom" width="200" alt="Edson Canganjo's Dev Card"/></a>
+    <div display: block>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=edsoncanganjo&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" /> 
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsoncanganjo&layout=compact&langs_count=100&theme=dark" /> 
     </div>
 </div>
 
