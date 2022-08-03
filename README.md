@@ -5,7 +5,7 @@ I'm [**Edson Canganjo** ](https://edsoncanganjo.cf/)
 - 🌱 I’m currently studying for Technical / Specialist in Technologies and Information Systems Programming
 - 👯 I’m looking to collaborate on a good and challengeable project
 
- <div style="display: flex;">
+ <div style="display: inline_block">
   <a href="https://github.com/edsoncanganjo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=edsoncanganjo&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
    
