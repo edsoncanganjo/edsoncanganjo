@@ -2,18 +2,19 @@
 
 I'm [**Edson Canganjo** ](https://edsoncanganjo.cf/)
 
-- 🌱 I’m currently studying for Technical / Specialist in Technologies and Information Systems Programming
-- 👯 I’m looking to collaborate on a good and challengeable project
+- I have been working as Fullstack developer, my main goal is help other to archive there goals;
+- I have joy while learn more.
 
- <div style="display: inline_block">
   <a href="https://github.com/edsoncanganjo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=edsoncanganjo&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-   
-   <a href="https://app.daily.dev/edsoncanganjo"><img src="https://api.daily.dev/devcards/9a4341df6d1748e4adde16509270f229.png?r=bom" width="300" alt="Edson Canganjo's Dev Card"/></a>
-   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsoncanganjo&layout=compact&langs_count=100&theme=dark"/>
-   
+
+ <div style="display: flex; gap: 1rem;">
+    <a href="https://app.daily.dev/edsoncanganjo"><img src="https://api.daily.dev/devcards/9a4341df6d1748e4adde16509270f229.png?r=bom" width="500" alt="Edson Canganjo's Dev Card"/></a>
+    <div display: block;>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=edsoncanganjo&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" /> 
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsoncanganjo&layout=compact&langs_count=100&theme=dark" /> 
+    </div>
 </div>
+
 <h2>Languages</h2>
 <div style="display: inline_block"><br>
   <img align="center" alt="EdsonCanganjo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -25,10 +26,9 @@ I'm [**Edson Canganjo** ](https://edsoncanganjo.cf/)
   <img align="center" alt="EdsonCanganjo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
- 
 <h2>Frameworks, libraries and technologies</h2>
 <div>
-  <img align="center" alt="EdsonCanganjo-Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg">
+  <img align="center" alt="EdsonCanganjo-Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg">
   <img align="center" alt="EdsonCanganjo-Flask" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
   <img align="center" alt="EdsonCanganjo-.NET" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg">
   <img align="center" alt="EdsonCanganjo-.Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
