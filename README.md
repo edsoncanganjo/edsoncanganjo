@@ -10,7 +10,7 @@ I'm [**Edson Canganjo** ](https://edsoncanganjo.cf/)
   <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=edsoncanganjo&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsoncanganjo&layout=compact&langs_count=100&theme=dark"/>
     
-  <a href="https://app.daily.dev/edsoncanganjo"><img src="https://api.daily.dev/devcards/9a4341df6d1748e4adde16509270f229.png?r=bom" width="400" alt="Edson Canganjo's Dev Card"/></a>
+  <a href="https://app.daily.dev/edsoncanganjo"><img src="https://api.daily.dev/devcards/9a4341df6d1748e4adde16509270f229.png?r=bom" width="300" alt="Edson Canganjo's Dev Card"/></a>
 </div>
 <h2>Languages</h2>
 <div style="display: inline_block"><br>
