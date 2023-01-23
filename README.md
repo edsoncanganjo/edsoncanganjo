@@ -2,8 +2,7 @@
 
 I'm [**Edson Canganjo** ](https://edsoncanganjo.cf/)
 
-- I have been working as Fullstack developer, my main goal is help other to archive their goals;
-- I have joy while learn more.
+- I have been working as Software Engineer.
 
   <a href="https://github.com/edsoncanganjo">
 
